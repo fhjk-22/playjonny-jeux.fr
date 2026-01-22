@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/bonus/</loc>
+    <loc>https://playjonny-jeux.fr/bonus/</loc>
     <lastmod>2025-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jeu-raisonne/</loc>
+    <loc>https://playjonny-jeux.fr/jeu-raisonne/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/a-propos-de-nous/</loc>
+    <loc>https://playjonny-jeux.fr/a-propos-de-nous/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contacts/</loc>
+    <loc>https://playjonny-jeux.fr/contacts/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/app/</loc>
+    <loc>https://playjonny-jeux.fr/app/</loc>
     <lastmod>2025-10-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/termes-et-conditions/</loc>
+    <loc>https://playjonny-jeux.fr/termes-et-conditions/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/politique-de-cookies/</loc>
+    <loc>https://playjonny-jeux.fr/politique-de-cookies/</loc>
     <lastmod>2025-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pratique-de-jeu-raisonnee/</loc>
+    <loc>https://playjonny-jeux.fr/pratique-de-jeu-raisonnee/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://playjonny-jeux.fr/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://playjonny-jeux.fr/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://playjonny-jeux.fr/tags/</loc>
   </url>
 </urlset>
